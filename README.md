@@ -16,3 +16,9 @@ ISC
 ## Objetivo
 
 Aprender a utilizar Git y GitHub para controlar las versiones de un proyecto.
+
+## Herramientas utilizadas
+
+- Git
+- GitHub
+- Cloud Shell
