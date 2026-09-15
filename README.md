@@ -11,3 +11,8 @@ ISC
 5. Creación de una rama
 6. Pull Request
 7.  Merge
+
+
+## Objetivo
+
+Aprender a utilizar Git y GitHub para controlar las versiones de un proyecto.
