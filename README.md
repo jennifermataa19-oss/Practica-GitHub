@@ -22,3 +22,8 @@ Aprender a utilizar Git y GitHub para controlar las versiones de un proyecto.
 - Git
 - GitHub
 - Cloud Shell
+
+
+## Trabajo en rama
+
+Este cambio fue realizado en una rama diferente a la rama principal para posteriormente integrarlo mediante un Pull Request.
